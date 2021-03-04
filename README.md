@@ -287,11 +287,6 @@ or
 |  speed |  ✅ | 
 
 
-## 🙏 Big Special Thanks To
-
-* [`MHRTZ`](https://github.com/MRHRTZ) 
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot) 
-* [`ItzNgga`](https://github.com/ItzNgga/wa-bot.js) 
-* [`Gimenz`](https://github.com/Gimenz) 
-* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot) 
+## 🙏 Special Thanks To
+ 
 * [`Nurutomo`](https://github.com/Nurutomo/wabot-aq) 
