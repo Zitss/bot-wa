@@ -98,56 +98,47 @@ or
 | toimg|✅|
 | ttp|✅|
 
-| Downlo |Yes|
+| Kerang Menu |Yes|
 | ------------- | ------------- |
-| Youtube Music |✅|
-| Youtube Video |✅|
-| Facebook |✅|
-| Instagram |✅|
-| Twitter|✅|
-| Tiktok Video|✅|
+| Apakah |✅|
+| Kapan |✅|
+| Kapankah |✅|
 
-| Fun Group! |Yes|
+| Hentai |Yes|
 | ------------- | ------------- |
-| Simi-simi BOT|✅|
-| Anti kata kasar|✅|
-| Family 100|✅|
-| Cak Lontong|✅|
-| Tebak Gambar|✅|
+| Hentai1|✅|
 
-| Primbon |Yes|
+| Quotes|Yes|
 | ------------- | ------------- |
-| Arti nama |✅|
-| Cek Jodoh |✅|
+| Quotes |✅|
+| Bucin |✅|
 
-| Searchs |Yes|
+| Admin Group |Yes|
 | ------------- | ------------- |
-| Images |✅|
-| Subreddit |✅|
-| Resep makanan |✅|
-| Stalk IG |✅|
-| Wikipedia |✅|
-| Cuaca |✅|
-| Chord musik |✅|
-| Lirik musik |✅|
-| Screen Crot!|✅|
-| Play music|✅|
-| whats anime?|✅|
+| Add |✅|
+| Kick |✅|
+| Promote |✅|
+| Demote |✅|
 
-| Random text |Yes|
+| Group |Yes|
 | ------------- | ------------- |
-| Pantun pakboy|✅|
-| Fakta Menarik|✅|
-| Kata Bijak|✅|
-| Quotes|✅|
-| Cerita Sex|✅|
-| Cerita Pendek|✅|
-| Puisi|✅|
+| Enable Welcome|✅|
+| Disable Welcome|✅|
+| ListOnline|✅|
+| Announce|✅|
+| Hidetag|✅|
 
-| Random image |Yes|
+| Images |Yes|
+| --------------- | ----------- |
+| Zgetcode|✅|
+| Zjadibot|✅|
+| Zberhenti|✅|
+| Zstop|✅|
+
+| Internet |Yes|
 | ------------- | ------------- |
-| Anime |✅|
-| Kpop |✅|
+| Brainly |✅|
+| Fetch |✅|
 | Memes |✅|
 
 
@@ -225,6 +216,12 @@ or
 | Info Alamat|✅|
 | More++|✅|
 
+| Images |Yes|
+| --------------- | ----------- |
+| Zgetcode|✅|
+| Zjadibot|✅|
+| Zberhenti|✅|
+| Zstop|✅|
 
 | Images |Yes|
 | --------------- | ----------- |
