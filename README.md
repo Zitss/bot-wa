@@ -71,11 +71,6 @@ or
 ```
 --------------
 
-
-
-    
-
-
 | MAIN |Yes|
 | ------------- | ------------- |
 | AFK  |✅|
@@ -83,40 +78,6 @@ or
 | HELP |✅|
 | ?    |✅|
 
-| OWNER |Yes|
-| ------------- | ------------- |
-| Zbanchat|✅|
-| Zbroadcast  |✅|
-| Zbc|✅| 
-| Zbroadcastgroup  
-| Zbcgc    |✅|
-| Zdeletechat  |✅|
-| Zdeletechat group  |✅|
-| Zmutechat  |✅|
-| Zmutechat group  |✅|
-| Zenable <option>  |✅|
-| Zdisable <option>  |✅|
-| Zoadd @user  |✅|
-| Zo+ @user  |✅|
-| Zodemote @user  |✅|
-| Zomember @user  |✅|
-| Zov @user  |✅|  
-| Zokick @user  |✅|
-| Zo- @user  |✅|
-| Zopengumuman [teks]  |✅|
-| Zohidetag [teks]  |✅|
-| Zopromote @user  |✅|
-| Zoadmin @user  |✅|
-| Zo^ @user  |✅|
-| Zsetbye    |✅|
-| Zsetmenu    |✅|
-| Zsetmenubefore    |✅|
-| Zsetmenuheader    |✅| 
-| Zsetmenubody    |✅|
-| Zsetmenufooter    |✅|
-| Zsetmenuafter    |✅|
-| Zsetwelcome    |✅|
-| Zunbanchat  |✅|
 
 | Exp&Limit |Yes|
 | ------------- | ------------- |
@@ -136,11 +97,13 @@ or
 | toimg|✅|
 | ttp|✅|
 
+
 | Kerang Menu |Yes|
 | ------------- | ------------- |
 | Apakah |✅|
 | Kapan |✅|
 | Kapankah |✅|
+
 
 | Hentai |Yes|
 | ------------- | ------------- |
@@ -151,12 +114,14 @@ or
 | Quotes |✅|
 | Bucin |✅|
 
+
 | Admin Group |Yes|
 | ------------- | ------------- |
 | Add |✅|
 | Kick |✅|
 | Promote |✅|
 | Demote |✅|
+
 
 | Group |Yes|
 | ------------- | ------------- |
@@ -166,6 +131,7 @@ or
 | Announce|✅|
 | Hidetag|✅|
 
+
 | JADI BOT |Yes|
 | --------------- | ----------- |
 | Zgetcode|✅|
@@ -173,130 +139,150 @@ or
 | Zberhenti|✅|
 | Zstop|✅|
 
+
 | Internet |Yes|
 | ------------- | ------------- |
-| Brainly |✅|
-| Fetch |✅|
-| Memes |✅|
+|  brainly |✅|
+|  fetch |✅|
+|  get |✅|
+|  google |✅|
+|  googlef |✅|
+|  ss |✅|
+|  ssf |✅|
 
 
-| Others |Yes|
+| Downloader |Yes|
 | ------------- | ------------- |
-| Teks to Sound/Voice|✅|
-| Translate teks|✅|
-| Get covid info from map|✅|
-| Covid-19 Indo|✅|
-| Shortlink|✅|
-| Bap4k F0nt|✅|
-| Get Group Link|✅|
-| Get Admin List|✅|
-| Get List Blocked|✅|
-| Get List Banned|✅|
-| Get Group Info|✅|
-| Get Profile Info|✅|
-| Steal Picture|✅|
-| Brainly|✅|
-| Matematika|✅|
-| Rate Me|✅|
-| Kapan|✅|
-| Apakah|✅|
-| Bisakah|✅|
-| Ai Quote|✅|
-| Doggo|✅|
-| Get Owner Group|✅|
-| Dewa Batch|✅|
-| How Much in Group|✅|
-| Group Bot|✅|
-| WP Anime|✅|
-| Penyegar Timeline|✅|
-| Google Search|✅|
-| Sider|✅|
-| Bokep|✅|
-| Bokep 2|✅|
-| Wallpaper|✅|
-| Wallpaper 2|✅|
-| Neko|✅|
-| Loli|✅|
-| Loli NSFW|✅|
-| Baka!|✅|
-| Waifu|✅|
-| Anime Avatar|✅|
-| Say List|✅|
-| Add Say!|✅|
-| Say!|✅|
-| Delete Say|✅|
-| Bacot List|✅|
-| Add Bacot|✅|
-| Bacot|✅|
-| Delete Bacot|✅|
-| Tag|✅|
-| Get User Picture|✅|
-| Jadian|✅|
-| Ava|✅|
-| KBBI|✅|
-| Logo Pornhub|✅|
-| Truth or Dare|✅|
-| Distance|✅|
-| Shopee|✅|
-| Play Store|✅|
-| YouTube Search|✅|
-| Play Youtube Video|✅|
-| Simi|✅|
-| Kusonime|✅|
-| Arti Mimpi|✅|
-| Emoji To Sticker|✅|
-| Asupan|✅|
-| Stalk Twitter|✅|
-| IG Story|✅|
-| Find Sticker|✅|
-| GSM Arena|✅|
-| Detail City|✅|
-| Info Alamat|✅|
-| More++|✅|
+|  play |  ✅ |  
+|  play2 |  ✅ |  
+|  yt |  ✅ |  
+|  yt |  ✅ |  
+|  ytmp4 |  ✅ |  
+|  ytv |  ✅ |  
+|  yt |  ✅ |  
 
-| Images |Yes|
-| --------------- | ----------- |
-| Zgetcode|✅|
-| Zjadibot|✅|
-| Zberhenti|✅|
-| Zstop|✅|
 
-| Images |Yes|
-| --------------- | ----------- |
-| Aesthetic|✅|
-| Amelia Andani|✅|
-| Random Cecan|✅|
-| Random Cogan|✅|
-
-| Groups |Yes|
+| TOOLS |Yes|
 | ------------- | ------------- |
-| Owner||
-| Kick all members|✅|
-| Admin||
-| Add user|✅|
-| Kick user|✅|
-| Promote User|✅|
-| Demote User|✅|
-| Mute Group|✅|
-| Change Group icon|✅|
-| Delete bot msg|✅|
-| Tagall/mentions all|✅|
-| Revoke Link Group|✅|
-| Set Group Name|✅|
-| Resend Messages|✅|
-| Anti Link|✅|
+|  base64 |  ✅ |  
+|  calc |  ✅ |  
+|  halah |  ✅ |  
+|  hilih |  ✅ |  
+|  huluh |  ✅ |  
+|  heleh |  ✅ |  
+|  holoh |  ✅ |  
+|  tahta |  ✅ |  
+|  ktl |  ✅ |  
+|  mention |  ✅ |  
+|  nulis |  ✅ |  
+|  profile |  ✅ |  
+|  qr |  ✅ |  
+|  qrcode |  ✅ |  
+|  readmore |  ✅ |  
+|  spoiler |  ✅ |  
+|  run |  ✅ |  
+|  ping |  ✅ |  
+|  speed |  ✅ |  
+|  style |  ✅ |  
+|  textpro |  ✅ |  
+|  tts |  ✅ |  
 
-| Owner bot |Yes|
+
+| Maker Menu |Yes|
 | ------------- | ------------- |
-| Broadcast|✅|
-| Leave all group|✅|
-| Delete all msgs|✅|
-| Banned user|✅|
-| Set Status Bot|✅|
-| Set Name Bot|✅|
-| Screenshot Session|✅|
-| Add Premium|✅|
-| Delete Premium|✅|
-     
-     
-     
+|  3dbox |  ✅ |  
+|  barcode |  ✅ |  
+|  blackpink |  ✅ |  
+|  bneon |  ✅ |  
+|  breakwall |  ✅ |  
+|  sky |  ✅ |  
+|  darkjokes |  ✅ |  
+|  fabric |  ✅ |  
+|  light |  ✅ |  
+|  flaming |  ✅ |  
+|  slot |  ✅ |  
+|  glitch |  ✅ |  
+|  dropwater |  ✅ |  
+|  firelowen |  ✅ |  
+|  bluemetal |  ✅ |  
+|  memeindo |  ✅ |  
+|  metal |  ✅ |  
+|  minion |  ✅ |  
+|  matrix |  ✅ |  
+|  logoff |  ✅ |  
+|  jokerlogo |  ✅ |  
+|  leavest |  ✅ |  
+|  nekonime |  ✅ |  
+|  smoke |  ✅ |  
+|  text3d |  ✅ |  
+|  harta |  ✅ |  
+|  thundertext |  ✅ |  
+|  vintage |  ✅ |  
+|  wolflogo |  ✅ |  
+
+
+| jadibot |Yes|
+| ------------- | ------------- |
+|  getcode |  ✅ |  
+|  jadibot |  ✅ |  
+|  berhenti |  ✅ |  
+|  stop |  ✅ |  
+
+
+| Owner |Yes|
+| ------------- | ------------- |
+|  banchat |  ✅ |  
+|  broadcast |  ✅ |  
+|  bc |  ✅ |  
+|  broadcastgroup
+|  bcgc |  ✅ |  
+|  deletechat |  ✅ |  
+|  deletechatgroup |  ✅ |  
+|  mutechat |  ✅ |  
+|  mutechatgroup |  ✅ |  
+|  enable<option> |  ✅ |  
+|  disable<option> |  ✅ |  
+|  oadd@user |  ✅ |  
+|  o+@user |  ✅ |  
+|  odemote@user |  ✅ |  
+|  omember@user |  ✅ |  
+|  ov@user |  ✅ |  
+|  okick@user |  ✅ |  
+|  o-@user |  ✅ |  
+|  opengumuman[teks] |  ✅ |  
+|  ohidetag[teks] |  ✅ |  
+|  opromote@user |  ✅ |  
+|  oadmin@user |  ✅ |  
+|  o^@user |  ✅ |  
+|  setbye |  ✅ |  
+|  setmenu |  ✅ |  
+|  setmenubefore |  ✅ |  
+|  setmenubefore |  ✅ |  
+|  setmenuheader |  ✅ |  
+|  setmenubody |  ✅ |  
+|  setmenufooter |  ✅ |  
+|  setmenuafter |  ✅ |  
+|  setwelcome |  ✅ |  
+|  unbanchat |  ✅ |  
+
+
+| Host |Yes|
+| ------------- | ------------- |
+|  broadcastjadibot |  ✅ | 
+|  bcbot |  ✅ | 
+|  debounce |  ✅ | 
+|  update |  ✅ | 
+
+
+| Info |Yes|
+| ------------- | ------------- |
+|  owner |  ✅ | 
+|  creator |  ✅ | 
+|  del |  ✅ | 
+|  delete |  ✅ | 
+|  donasi |  ✅ | 
+|  groups |  ✅ | 
+|  grouplist |  ✅ | 
+|  ping |  ✅ | 
+|  speed |  ✅ | 
+
