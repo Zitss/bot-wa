@@ -286,3 +286,14 @@ or
 |  ping |  ✅ | 
 |  speed |  ✅ | 
 
+
+## 🙏 Big Special Thanks To
+
+* [`MHRTZ`](https://github.com/MRHRTZ) 
+* [`OpenWA/WA-Automate`](https://github.com/open-wa/wa-automate-nodejs) 
+* [`YogaSakti`](https://github.com/YogaSakti/imageToSticker) 
+* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot) 
+* [`ItzNgga`](https://github.com/ItzNgga/wa-bot.js) 
+* [`Gimenz`](https://github.com/Gimenz) 
+* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot) 
+* [`Nurutomo`](https://github.com/Nurutomo/wabot-aq) 
