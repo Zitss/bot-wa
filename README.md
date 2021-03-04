@@ -73,23 +73,21 @@ or
 | ------------- | ------------- |
 | Buy|✅|
 | Buy ALL|✅|
-| TTP|✅|
 | Daily|✅|
 | Claim|✅|
+| Lb|✅|
 | Leaderboard|✅|
 | Pay|✅|
 
 
-| Islam |Yes|
+| Sticker |Yes|
 | ------------- | ------------- |
-| List Surah|✅|
-| Info Surah|✅|
-| Surah|✅|
-| Tafsir Alquran|✅|
-| Alquran Audio/Voice|✅|
-| Jadwal solat|✅|
+| attp|✅|
+| sticker|✅|
+| toimg|✅|
+| ttp|✅|
 
-| Downloader |Yes|
+| Downlo |Yes|
 | ------------- | ------------- |
 | Youtube Music |✅|
 | Youtube Video |✅|
