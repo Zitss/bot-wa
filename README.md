@@ -60,7 +60,203 @@ or
 ```
 --------------
 
-     
+| MAIN |Yes|
+| ------------- | ------------- |
+| AFK  |✅|
+| MENU |✅|
+| HELP |✅|
+| ?    |✅|
+
+
+
+| Creator |Yes|
+| ------------- | ------------- |
+| Respond img to sticker|✅|
+| Sticker To Image|✅|
+| TTP|✅|
+| Respond img to sticker no bg|✅|
+| Respond url to sticker|✅|
+| Respond gif to sticker|✅|
+| Respond giphy url to sticker|✅|
+| Make a meme from photo|✅|
+| Quotes maker result pict|✅|
+| Nulis Bot|✅|
+| Glitch Text Maker|✅|
+| Harta Tahta|✅|
+
+| Islam |Yes|
+| ------------- | ------------- |
+| List Surah|✅|
+| Info Surah|✅|
+| Surah|✅|
+| Tafsir Alquran|✅|
+| Alquran Audio/Voice|✅|
+| Jadwal solat|✅|
+
+| Downloader |Yes|
+| ------------- | ------------- |
+| Youtube Music |✅|
+| Youtube Video |✅|
+| Facebook |✅|
+| Instagram |✅|
+| Twitter|✅|
+| Tiktok Video|✅|
+
+| Fun Group! |Yes|
+| ------------- | ------------- |
+| Simi-simi BOT|✅|
+| Anti kata kasar|✅|
+| Family 100|✅|
+| Cak Lontong|✅|
+| Tebak Gambar|✅|
+
+| Primbon |Yes|
+| ------------- | ------------- |
+| Arti nama |✅|
+| Cek Jodoh |✅|
+
+| Searchs |Yes|
+| ------------- | ------------- |
+| Images |✅|
+| Subreddit |✅|
+| Resep makanan |✅|
+| Stalk IG |✅|
+| Wikipedia |✅|
+| Cuaca |✅|
+| Chord musik |✅|
+| Lirik musik |✅|
+| Screen Crot!|✅|
+| Play music|✅|
+| whats anime?|✅|
+
+| Random text |Yes|
+| ------------- | ------------- |
+| Pantun pakboy|✅|
+| Fakta Menarik|✅|
+| Kata Bijak|✅|
+| Quotes|✅|
+| Cerita Sex|✅|
+| Cerita Pendek|✅|
+| Puisi|✅|
+
+| Random image |Yes|
+| ------------- | ------------- |
+| Anime |✅|
+| Kpop |✅|
+| Memes |✅|
+
+
+| Others |Yes|
+| ------------- | ------------- |
+| Teks to Sound/Voice|✅|
+| Translate teks|✅|
+| Get covid info from map|✅|
+| Covid-19 Indo|✅|
+| Shortlink|✅|
+| Bap4k F0nt|✅|
+| Get Group Link|✅|
+| Get Admin List|✅|
+| Get List Blocked|✅|
+| Get List Banned|✅|
+| Get Group Info|✅|
+| Get Profile Info|✅|
+| Steal Picture|✅|
+| Brainly|✅|
+| Matematika|✅|
+| Rate Me|✅|
+| Kapan|✅|
+| Apakah|✅|
+| Bisakah|✅|
+| Ai Quote|✅|
+| Doggo|✅|
+| Get Owner Group|✅|
+| Dewa Batch|✅|
+| How Much in Group|✅|
+| Group Bot|✅|
+| WP Anime|✅|
+| Penyegar Timeline|✅|
+| Google Search|✅|
+| Sider|✅|
+| Bokep|✅|
+| Bokep 2|✅|
+| Wallpaper|✅|
+| Wallpaper 2|✅|
+| Neko|✅|
+| Loli|✅|
+| Loli NSFW|✅|
+| Baka!|✅|
+| Waifu|✅|
+| Anime Avatar|✅|
+| Say List|✅|
+| Add Say!|✅|
+| Say!|✅|
+| Delete Say|✅|
+| Bacot List|✅|
+| Add Bacot|✅|
+| Bacot|✅|
+| Delete Bacot|✅|
+| Tag|✅|
+| Get User Picture|✅|
+| Jadian|✅|
+| Ava|✅|
+| KBBI|✅|
+| Logo Pornhub|✅|
+| Truth or Dare|✅|
+| Distance|✅|
+| Shopee|✅|
+| Play Store|✅|
+| YouTube Search|✅|
+| Play Youtube Video|✅|
+| Simi|✅|
+| Kusonime|✅|
+| Arti Mimpi|✅|
+| Emoji To Sticker|✅|
+| Asupan|✅|
+| Stalk Twitter|✅|
+| IG Story|✅|
+| Find Sticker|✅|
+| GSM Arena|✅|
+| Detail City|✅|
+| Info Alamat|✅|
+| More++|✅|
+
+
+| Images |Yes|
+| --------------- | ----------- |
+| Aesthetic|✅|
+| Amelia Andani|✅|
+| Random Cecan|✅|
+| Random Cogan|✅|
+
+| Groups |Yes|
+| ------------- | ------------- |
+| Owner||
+| Kick all members|✅|
+| Admin||
+| Add user|✅|
+| Kick user|✅|
+| Promote User|✅|
+| Demote User|✅|
+| Mute Group|✅|
+| Change Group icon|✅|
+| Delete bot msg|✅|
+| Tagall/mentions all|✅|
+| Revoke Link Group|✅|
+| Set Group Name|✅|
+| Resend Messages|✅|
+| Anti Link|✅|
+
+| Owner bot |Yes|
+| ------------- | ------------- |
+| Broadcast|✅|
+| Leave all group|✅|
+| Delete all msgs|✅|
+| Banned user|✅|
+| Set Status Bot|✅|
+| Set Name Bot|✅|
+| Screenshot Session|✅|
+| Add Premium|✅|
+| Delete Premium|✅|
      
      
      
