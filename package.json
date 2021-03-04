@@ -19,15 +19,15 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/zitsraa/bot-wa.git",
   "author": {
     "name": "Nurutomo"
   },
   "repository": {
-    "url": "https://github.com/Nurutomo/wabot-aq.git"
+    "url": "https://github.com/zitsraa/bot-wa.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/Zitsraa/bot-wa/issues"
   },
   "license": "GPL-3.0",
   "dependencies": {
