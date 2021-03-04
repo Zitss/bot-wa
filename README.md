@@ -73,40 +73,7 @@ or
 
 
 
-| MAIN |Yes|
-| ------------- | ------------- |
-    | Zbanchat|✅|
-    | Zbroadcast  |✅|
-    | Zbc|✅| 
-    | Zbroadcastgroup  
-    | Zbcgc    |✅|
-    | Zdeletechat  |✅|
-    | Zdeletechat group  |✅|
-    | Zmutechat  |✅|
-    | Zmutechat group  |✅|
-    | Zenable <option>  |✅|
-    | Zdisable <option>  |✅|
-    | Zoadd @user  |✅|
-    | Zo+ @user  |✅|
-    | Zodemote @user  |✅|
-    | Zomember @user  |✅|
-    | Zov @user  |✅|
-    | Zokick @user  |✅|
-    | Zo- @user  |✅|
-    | Zopengumuman [teks]  |✅|
-    | Zohidetag [teks]  |✅|
-    | Zopromote @user  |✅|
-    | Zoadmin @user  |✅|
-    | Zo^ @user  |✅|
-    | Zsetbye    |✅|
-    | Zsetmenu    |✅|
-    | Zsetmenubefore    |✅|
-    | Zsetmenuheader    |✅| 
-    | Zsetmenubody    |✅|
-    | Zsetmenufooter    |✅|
-    | Zsetmenuafter    |✅|
-    | Zsetwelcome    |✅|
-    | Zunbanchat  |✅|
+    
 
 
 | MAIN |Yes|
@@ -116,7 +83,40 @@ or
 | HELP |✅|
 | ?    |✅|
 
-
+| OWNER |Yes|
+| ------------- | ------------- |
+| Zbanchat|✅|
+| Zbroadcast  |✅|
+| Zbc|✅| 
+| Zbroadcastgroup  
+| Zbcgc    |✅|
+| Zdeletechat  |✅|
+| Zdeletechat group  |✅|
+| Zmutechat  |✅|
+| Zmutechat group  |✅|
+| Zenable <option>  |✅|
+| Zdisable <option>  |✅|
+| Zoadd @user  |✅|
+| Zo+ @user  |✅|
+| Zodemote @user  |✅|
+| Zomember @user  |✅|
+| Zov @user  |✅|  
+| Zokick @user  |✅|
+| Zo- @user  |✅|
+| Zopengumuman [teks]  |✅|
+| Zohidetag [teks]  |✅|
+| Zopromote @user  |✅|
+| Zoadmin @user  |✅|
+| Zo^ @user  |✅|
+| Zsetbye    |✅|
+| Zsetmenu    |✅|
+| Zsetmenubefore    |✅|
+| Zsetmenuheader    |✅| 
+| Zsetmenubody    |✅|
+| Zsetmenufooter    |✅|
+| Zsetmenuafter    |✅|
+| Zsetwelcome    |✅|
+| Zunbanchat  |✅|
 
 | Exp&Limit |Yes|
 | ------------- | ------------- |
